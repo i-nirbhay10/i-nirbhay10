@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-i--nirbhay10-black)](https://github.com/i-nirbhay10)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue)](https://info-nirbhay.netlify.app)
 
-**Location:**  Gorakhpur, Uttar Pradesh, India (273015)  
+**Location:** Gorakhpur, Uttar Pradesh, India (273015)  
 **Email:** nirbhayverma10@gmail.com  
 **Phone:** +91 8787280055
 
@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hi, I'm **Nirbhay Verma**, a passionate MERN stack developer. I specialize in building responsive and user-friendly web and mobile applications. I love problem-solving and am always eager to learn new technologies and improve my skills.
+Hi, I'm **Nirbhay Verma**, a passionate MERN stack developer with expertise in building responsive and user-friendly web and mobile applications. I specialize in both front-end and back-end development and love solving complex problems. I'm always eager to learn and stay updated with new technologies.
 
 ---
 
@@ -53,10 +53,18 @@ Hi, I'm **Nirbhay Verma**, a passionate MERN stack developer. I specialize in bu
 
 ## 💼 Work Experience
 
+### React Native Developer | **DG Digital**  
+**December 2024 – Present**  
+- Lead the development of cross-platform mobile applications using **React Native**, ensuring high performance and smooth user experiences on both iOS and Android platforms.
+- Collaborate with backend developers to integrate **RESTful APIs** and optimize data handling and user interactions.
+- Build reusable components and manage state using **Redux** to ensure maintainability and scalability of mobile applications.
+- Work closely with designers to translate wireframes into interactive mobile features.
+- Focus on performance optimization and code quality through regular testing and best practices.
+
 ### Full Stack Developer | **Jouls Ecotech**  
 **December 2023 – August 2024**  
 - Developed and maintained both front-end and back-end components of web applications.  
-- Led the development of a React Native mobile application for iOS and Android.  
+- Led the development of a **React Native** mobile application for iOS and Android.  
 - Conducted regular code reviews and ensured the quality and performance of applications.
 
 ---
@@ -65,26 +73,26 @@ Hi, I'm **Nirbhay Verma**, a passionate MERN stack developer. I specialize in bu
 
 Here are some of my key projects:
 
-### [Wiregram Web App]([https://github.com/i-nirbhay10/Wiregram-Web](https://wiregram.netlify.app/)
+### [Wiregram Web App](https://wiregram.netlify.app/)
 **Instagram clone built with MERN stack.**  
 - Secure user authentication with Google OAuth and JWT.
 - Responsive frontend with Tailwind CSS.
 - Backend security using CORS and dotenv.
 
-### [Product Analytics Dashboard]([https://github.com/i-nirbhay10/Product-Analytics-Dashboard](https://openadmin.netlify.app)
+### [Product Analytics Dashboard](https://openadmin.netlify.app)
 **Data analytics dashboard for product insights.**  
 - Integrated Google Authentication.
 - Data visualization with Chart.js.
 
-### [Personal Portfolio Mobile App]([https://github.com/i-nirbhay10/Personal-Portfolio-Mobile](https://drive.google.com/file/d/1-Rx7UpB-UAw3oTL_9YlNYKEkfDIXKL8v/view?pli=1))
+### [Personal Portfolio Mobile App](https://drive.google.com/file/d/1-Rx7UpB-UAw3oTL_9YlNYKEkfDIXKL8v/view?pli=1)
 **Cross-platform mobile app showcasing my portfolio.**  
 - Developed with React Native for iOS and Android compatibility.
 
-### [Personal Portfolio Web App][([https://github.com/i-nirbhay10/Personal-Portfolio-Web](https://info-nirbhay.netlify.app/)](https://info-nirbhay.netlify.app/)
+### [Personal Portfolio Web App](https://info-nirbhay.netlify.app/)
 **Personal website built using HTML, CSS, and JavaScript.**  
 - Hosted on Netlify for easy access.
 
-
+---
 
 ## 🔧 Tools & Technologies
 
