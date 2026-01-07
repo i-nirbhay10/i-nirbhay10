@@ -53,7 +53,7 @@ Hi, I'm **Nirbhay Verma**, a passionate MERN stack developer with expertise in b
 
 ## 💼 Work Experience
 
-### React Native Developer | **DG Digital**  
+### React Native Developer | **Devout Groth PVT LTD**  
 **December 2024 – Present**  
 - Lead the development of cross-platform mobile applications using **React Native**, ensuring high performance and smooth user experiences on both iOS and Android platforms.
 - Collaborate with backend developers to integrate **RESTful APIs** and optimize data handling and user interactions.
